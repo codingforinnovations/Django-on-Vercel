@@ -1,3 +1,14 @@
+<p align="center">
+  <p align="center">
+    <a href="https://www.youtube.com/channel/UC7m0x5NHiHz4VemPFVaS98A" target="_blank">
+      <img src="https://raw.githubusercontent.com/codingforinnovations/Django-on-Vercel/main/.static/Logo-Light.png?token=GHSAT0AAAAAABXU4AJBD6OH7Z33MGA7X2EYY3HPGAA" height="72" />    
+    </a>
+  </p>
+  <p align="center">
+    For Programmers, By Programmers.
+  </p>
+</p>
+
 # Django with Vercel
 
 This repository is the final code for the Django with Vercel Project Demo.
